@@ -1,0 +1,10 @@
+[
+  {
+    "expression": "language(streams, 'Arabic', 'Czech', 'Danish', 'Dutch', 'Finnish', 'French', 'German', 'Greek', 'Hebrew', 'Hungarian', 'Indonesian', 'Italian', 'Malay', 'Norwegian', 'Polish', 'Portuguese', 'Romanian', 'Russian', 'Spanish', 'Swedish', 'Thai', 'Turkish', 'Ukrainian', 'Vietnamese')",
+    "enabled": true
+  },
+  {
+    "expression": "pin(keyword(streams, 'filename,releaseGroup', 'SuccessfulCrab', 'QxR', 'TGx', 'Tigole', 'KONTRAST', 'MeGusta', '[TGx]', '[QxR]'), 'top')",
+    "enabled": true
+  }
+]
